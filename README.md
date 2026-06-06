@@ -45,7 +45,6 @@ Ola_Ride_Insights_Project/
 ├── powerbi/
 ├── streamlit_app/
 ├── outputs/
-├── documentation/
 ├── requirements.txt
 ├── README.md
 └── main.py
@@ -97,11 +96,5 @@ streamlit run streamlit_app/app.py
 - Average driver rating
 - Average customer rating
 
-## GitHub Description
 
-End-to-end Ola ride analytics capstone using MySQL, Python, statistics, Power BI planning, and Streamlit dashboarding to analyze booking success, revenue, cancellations, operations, and ratings.
-
-## Resume Description
-
-Built an end-to-end ride-hailing analytics project on 103K+ Ola bookings using Python, MySQL, Power BI design, and Streamlit; performed data cleaning, EDA, statistical analysis, SQL analytics, KPI reporting, and business recommendation development.
 
