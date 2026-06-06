@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local secrets
+.env
+.streamlit/secrets.toml
+
+# App/runtime logs
+*.log
+outputs/streamlit_stdout.log
+outputs/streamlit_stderr.log
+
+# Temporary render/build files
+work/
+*.tmp
+~$*.docx
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
